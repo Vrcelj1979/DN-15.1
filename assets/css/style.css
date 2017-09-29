@@ -1,0 +1,26 @@
+#naslov{
+        text-align: left;
+        font-size: 30px;
+        color: blue;
+        }
+
+.image{
+        border: 6px black dotted;
+        padding: 5px;
+        hover: rolln;
+        }
+
+h2:nth-child(5){
+                color: #cc6666;
+                font-family: serif;
+                }
+
+li p{
+    text-decoration: inherit;
+    color: #ff0000;
+    }
+
+.jaz{
+    font-size: 25px;
+    text-shadow: 2px 2px #ff0000;
+    }
